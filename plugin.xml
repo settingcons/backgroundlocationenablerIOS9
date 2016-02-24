@@ -16,7 +16,8 @@
        
         <config-file target="*-Info.plist" parent="UIBackgroundModes">
             <array>
-                <string>location</string><string>allowsBackgroundLocationUpdates=YES</string>
+                <string>location</string>
+                <string>allowsBackgroundLocationUpdates</string>
             </array>
         </config-file>
 
